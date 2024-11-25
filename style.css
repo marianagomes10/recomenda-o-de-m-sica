@@ -7,5 +7,21 @@ body{
 }
 .chamada{
     background-color: #035a83;
-    display: ;
+    display: flex;
+    justify-content: center;
+    padding-top: 80px;
 }
+header{
+color: black;
+font-size: 35px;
+border-bottom: 3px solid black;
+padding: 20px;
+}
+ .chamada-texto{
+margin-right: 5%;
+
+ }
+
+ h1{
+    font-size: 36px;
+ }
